@@ -1,7 +1,8 @@
 # LFM2-VL-Colaboratory-Sample
 Colaboratory上で[LiquidAI/LFM2-VL](https://huggingface.co/LiquidAI/LFM2-VL-450M)の推論とファインチューニングをお試しするサンプル
 
-<img width="1434" height="1028" alt="image" src="https://github.com/user-attachments/assets/143692db-2601-4f53-be2f-7555e95bb885" />
+<img width="1223" height="1040" alt="image" src="https://github.com/user-attachments/assets/2a65500c-875f-422d-921c-c03580569cd7" />
+
 
 # Usage(推論)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/LFM2-VL-Colaboratory-Sample/blob/main/LFM2-VL-Colaboratory-Sample.ipynb)<br>
@@ -9,7 +10,7 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 
 # Usage(ファインチューニング)
 医療QA用の小規模データセット [simwit/omni-med-vqa-mini](https://huggingface.co/datasets/simwit/omni-med-vqa-mini) を用いて、ファインチューニングするサンプルです。<br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00LFM2-VL-Colaboratory-Sample/blob/main/LFM2-VL-SFT-with-TRL-ipynb.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/LFM2-VL-Colaboratory-Sample/blob/main/LFM2-VL-SFT-with-TRL-ipynb.ipynb)<br>
 Colaboratoryでノートブックを開き、上から順に実行してください。
 
 # License 
